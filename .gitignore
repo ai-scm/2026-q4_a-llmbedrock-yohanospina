@@ -1,0 +1,14 @@
+# Entorno virtual y caché
+venv/
+.venv/
+__pycache__
+*.pyc
+
+# CREDENCIALES
+.env
+*.env
+
+# Archivos de configuración de sistema o IDE
+.vscode/
+.idea/
+.DS_Store

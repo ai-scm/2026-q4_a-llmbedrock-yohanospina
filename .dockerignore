@@ -1,0 +1,10 @@
+# Entorno virtual local y caché de Python
+venv/
+.venv/
+__pycache__
+*.pyc
+
+# Credenciales y archivos de Git
+.env
+.git/
+.gitignore
